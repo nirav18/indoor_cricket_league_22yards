@@ -1,5 +1,3 @@
-– Points – Skins Won – Run Difference (Runs scored minus runs conceded) – Runs Scored
-
 # Indoor Cricket League: Basic Rules
 
 ## 1. Game Format
@@ -91,6 +89,8 @@ If teams are tied at season end, order is:
 2. Skins won
 3. Run difference (scored minus conceded)
 4. Runs scored
+
+– Points – Skins Won – Run Difference (Runs scored minus runs conceded) – Runs Scored
 
 ## 9. Match Duration & Timing
 
