@@ -9,11 +9,11 @@ title: Indoor Cricket League Rules
 - 6 players per side
 - 24 overs per game, 12 per side
 - Everyone bowls 2 overs (mandatory)
-- Everyone bats for 4 overs, even if dismissed
+- Each Pair for 4 overs, even if a batter of the pair is dismissed
 
 ## 2. Batting / Scoring Runs
 - Bat in pairs, face 4 overs as a partnership
-- Non-facer stands at the running crease (11 yards from stumps)
+- Non-striker stands at the running crease (11 yards from stumps)
 - If out, continue to bat for the full 4 overs (do not leave the court)
 - All dismissals: **-5 runs** from team total (any runs from that delivery are lost)
 - To score: complete a run from batting crease to running crease (1 run), plus bonus runs for where the ball is hit:
@@ -124,7 +124,7 @@ If teams are tied at season end, order is:
 - Celebrate successes, but not excessively
 - Thank umpires and scorers after the game (captains especially)
 
-### Managers
+### Managers (IYKYK Whos Manager?!?!)
 - Set a good example; avoid “win at all costs” attitude
 - Do not shout at players on the field
 
