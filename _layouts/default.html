@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    {{ site.github_metadata }}
+    {{ site.head }}
+</head>
+
+<body>
+    <div class="rules-container">
+        {{ content }}
+    </div>
+</body>
+
+</html>

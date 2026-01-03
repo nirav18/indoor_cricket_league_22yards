@@ -1,0 +1,59 @@
+/* Custom styles for Indoor Cricket League GitHub Pages */
+
+body {
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+  background: #f8fafc;
+  color: #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1a4d2e;
+  font-weight: 700;
+}
+
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background: #fff;
+  margin-bottom: 1.5em;
+}
+th, td {
+  border: 1px solid #d1e7dd;
+  padding: 0.5em 1em;
+  text-align: left;
+}
+th {
+  background: #e9f7ef;
+  color: #14532d;
+}
+
+/* Section spacing */
+h2 {
+  margin-top: 2em;
+  border-bottom: 2px solid #d1e7dd;
+  padding-bottom: 0.2em;
+}
+
+/* List styling */
+ul, ol {
+  margin-left: 2em;
+}
+
+/* Custom container for rules */
+.rules-container {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  padding: 2em;
+  margin: 2em auto;
+  max-width: 900px;
+}
